@@ -13,7 +13,7 @@ Use reactions and comments to send feedback to author!
 
 [Web app to read new articles and storing history of interests (under development)](https://eigenmethod.github.io/mol/app/habhub/)
 
-## How write
+## How to write
 
 * Create repository for your articles named "HabHub' (not fork this repository).
 * Create issue label "HabHub" for article publishing. 
