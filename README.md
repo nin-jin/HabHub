@@ -11,7 +11,7 @@ Use reactions and comments to send feedback to author!
 
 ### Web appplication
 
-[Web app to read new articles and storing history of interests (under development)](https://eigenmethod.github.io/mol/app/habhub/)
+[Web app to read new articles and storing history of interests (under development)](https://habhub.hyoo.ru/)
 
 ## How to write
 
